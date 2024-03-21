@@ -28,10 +28,12 @@ public:
     }
 };
 
-int main() {
+int main() 
+{
     Agenda a;
     a.setNome("Ana");
     a.setTelefone("613738238");
-
+    a.printAgenda();
+    
     return 0;
 }
