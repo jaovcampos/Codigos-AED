@@ -74,11 +74,11 @@ int main() {
 
     vendedor.adicionarVendas(10000);
 
-    cout << "Informacoes do Vendedor:" << endl;
-    cout << "Nome: " << vendedor.getNome() << endl;
-    cout << "Idade: " << vendedor.getIdade() << endl;
-    cout << "Endereco: " << vendedor.getEndereco() << endl;
-    cout << "Salario: " << vendedor.calcularSalario() << endl;
+    cout << "Informacoes do Vendedor:\n";
+    cout << "Nome: " << vendedor.getNome() << "\n";
+    cout << "Idade: " << vendedor.getIdade() << "\n";
+    cout << "Endereco: " << vendedor.getEndereco() << "\n";
+    cout << "Salario: " << vendedor.calcularSalario() << "\n";
 
     return 0;
 }
