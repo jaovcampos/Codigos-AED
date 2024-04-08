@@ -68,7 +68,7 @@ public:
             cout << "Marca: " << veiculo.getMarca() << ", ";
             cout << "Cor: " << veiculo.getCor() << ", ";
             cout << "Ano: " << veiculo.getAno() << ", ";
-            cout << "Peso: " << veiculo.getPeso() << endl;
+            cout << "Peso: " << veiculo.getPeso() << "\n";
         }
     }
 
@@ -79,12 +79,12 @@ public:
                 arquivo << "Marca: " << veiculo.getMarca() << ", ";
                 arquivo << "Cor: " << veiculo.getCor() << ", ";
                 arquivo << "Ano: " << veiculo.getAno() << ", ";
-                arquivo << "Peso: " << veiculo.getPeso() << endl;
+                arquivo << "Peso: " << veiculo.getPeso() << "\n";
             }
             arquivo.close();
-            cout << "Veículos salvos em " << nomeArquivo << " com sucesso!" << endl;
+            cout << "Veículos salvos em " << nomeArquivo << " com sucesso!\n";
         } else {
-            cout << "Não foi possível abrir o arquivo para escrita." << endl;
+            cout << "Não foi possível abrir o arquivo para escrita.\n";
         }
     }
 };
@@ -97,11 +97,10 @@ int main() {
     concessionaria.adicionarVeiculo(Veiculo("Chevrolet", "Prata", 2020, 1400.2));
     concessionaria.adicionarVeiculo(Veiculo("Volkswagen", "Azul", 2023, 1600.8));
 
-    cout << "Veículos cadastrados:" << endl;
+    cout << "Veículos cadastrados:\n";
     concessionaria.imprimirVeiculos();
 
     concessionaria.imprimirVeiculosEmArquivo("veiculos.txt");
 
     return 0;
 }
-
