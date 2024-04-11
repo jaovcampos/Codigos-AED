@@ -1,0 +1,3 @@
+O que significa dizer que uma função g(n) é Θ(f(n))?
+
+Isso implica que g(n) cresce no mesmo ritmo que f(n) para valores suficientemente grandes de n.

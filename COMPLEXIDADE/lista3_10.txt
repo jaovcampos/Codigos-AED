@@ -1,0 +1,4 @@
+(i) Identificar as operações de tempo constante
+(ii) Identificar as operações em que o tempo pode variar
+(iii) Com base nisso, pode-se obter a função de custo de um algoritmo por meio da análise matemática, 
+desconsiderando constantes.

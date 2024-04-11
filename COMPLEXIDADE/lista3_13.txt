@@ -1,0 +1,4 @@
+Quais problemas que costumam ser exponenciais?
+
+Problemas de enumeração ou busca exaustiva, como o problema do caixeiro viajante, podem ter complexidade exponencial,
+o que os torna difíceis de resolver para tamanhos moderados a grandes de entrada.

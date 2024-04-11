@@ -1,0 +1,4 @@
+Quais problemas que possuem geralmente complexidade da ordem de log n?
+
+Estruturas de dados como árvores balanceadas (por exemplo, árvores AVL, árvores vermelho-negras) 
+têm operações de busca, inserção e exclusão com complexidade O(logn).

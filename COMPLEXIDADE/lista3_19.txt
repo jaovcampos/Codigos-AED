@@ -1,0 +1,3 @@
+Obtenha a equação matemática referente à análise do pior e melhor caso do fragmento de código abaixo:
+
+Tanto no pior caso quanto no melhor caso, a complexidade é O(N^2).

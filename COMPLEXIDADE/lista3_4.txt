@@ -1,0 +1,5 @@
+Suponha um algoritmo A e um algoritmo B com funções de complexidade de tempo a(n) = n^2n + 549 e b(n) = 49n + 49, 
+respectivamente. Determine quais são os valores de n pertencentes ao conjunto dos números naturais para os quais 
+A leva menos tempo para executar do que B.
+
+A função a(n) em termos de Big O -> O(n2) A função b(n) em termos de Big O -> O(n)

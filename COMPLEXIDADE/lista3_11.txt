@@ -1,0 +1,5 @@
+Explique que tipos de problemas ou algoritmos costumam ter complexidade da ordem de nlog n e como os identificamos.
+
+Algoritmos de ordenação eficientes, como o mergesort e o heapsort, geralmente têm complexidade O(nlogn). 
+Eles são identificados pela divisão do conjunto de dados em subconjuntos menores para processamento e, em 
+seguida, a combinação desses subconjuntos em uma solução final.

@@ -1,0 +1,8 @@
+Qual a ordem de complexidade no pior caso de:
+
+(a) O(n)
+(b) O(n^2)
+(c) O(n + √n)
+(d) O(n)
+(e) O(n^2)
+(f) O(n^2)

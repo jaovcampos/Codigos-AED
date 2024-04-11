@@ -1,0 +1,3 @@
+Expresse a função 10n^3 − 5n^2 − 10n + 3 em termos da notação Θ.
+
+θ(n3) devido ao fato de este ser o elemento dominante e o que mais cresce.

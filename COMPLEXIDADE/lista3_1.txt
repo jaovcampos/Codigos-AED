@@ -1,0 +1,3 @@
+O que significa dizer que uma função g(n) é O(f(n))?
+
+Significa que g(n) é limitada superiormente por f(n) para valores suficientemente grandes de n.
